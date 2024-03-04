@@ -25,26 +25,37 @@ main{
 }
 
 h1{
-    font-weight: 0.8em;
+    font-size: 2em;
 }
 
 .scritto{
     color: gray;
+    font-size: 0.8em;
 }
 
 .booleaner{
     color: rgb(31, 130, 229);
+    font-size: 0.8em;
 }
 
 .date{
     color: gray;
+    font-size: 0.8em;
     
 }
 
+.immagini1-2{
+    margin-top: 20px;
+}
+
 .berners-1{
-    width: 50% ;
+    width: 49% ;
 }
 
 .berners-2{
-    width: 40% ;
+    width: 42% ;
+}
+
+figcaption{
+    font-size: 0.8em;
 }
