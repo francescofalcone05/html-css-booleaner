@@ -3,3 +3,48 @@
     margin: 0;
     padding: 0;
 }
+
+
+header{
+    width:100vw ;
+    background-color: aqua;
+    background-image: url("pattern.png");
+  
+}
+
+.logo{
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 200px;
+    height: 70px;
+}
+
+main{
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+h1{
+    font-weight: 0.8em;
+}
+
+.scritto{
+    color: gray;
+}
+
+.booleaner{
+    color: rgb(31, 130, 229);
+}
+
+.date{
+    color: gray;
+    
+}
+
+.berners-1{
+    width: 45% ;
+}
+
+.berners-2{
+    width: 45% ;
+}
